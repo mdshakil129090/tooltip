@@ -1,0 +1,7 @@
+:root{
+    --red:rgb(238, 125, 19);
+    
+}
+ header p{
+    color: var(--red);
+}
